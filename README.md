@@ -4,7 +4,7 @@ I'm a Software Engineer and Entrepreneur who likes to follow best coding practic
 
 ### What I'm working on
 
-I'm working at [Crypto Unifier](https://cryptounifier.io/) and its sub-products, aiming to offer a payment processor with a solid and unified API of multiple blockchains and cryptocurrencies.
+I'm currently working at [Crypto Unifier](https://cryptounifier.io/) and its sub-products, aiming to offer a payment processor with a solid and unified API of multiple blockchains and cryptocurrencies.
 
 While developing my proprietary products, I have also released some open-source packages, such as [AntiBotLinks](https://github.com/srdante/antibotlinks), [Dom Parser](https://github.com/srdante/dom-parser), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/srdante/libssh2-ide-helper).
 

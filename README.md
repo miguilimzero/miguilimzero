@@ -13,8 +13,10 @@ While developing my proprietary products, I have also released some open-source 
 
 As part of my work, I've contributed to several open-source projects over the last few years. Some of these projects include [SingleStore Laravel Driver](https://github.com/singlestore-labs/singlestoredb-laravel-driver), [DDNet](https://github.com/ddnet/ddnet), [Laravel Socialstream](https://github.com/joelbutcher/socialstream), [Web3.php](https://github.com/web3p/web3.php), [Laravel Jetstream](https://github.com/laravel/jetstream).
 
+<!---
 In this year 2023 I started as a new objective to contribute to the [GNOME Project and Linux Ecosystem](https://gitlab.gnome.org/miguilim).
 
 ### Contact Me
 
 If you want to chat, feel free to reach out to me via [Telegram](https://t.me/miguilimbr).
+-->

@@ -9,7 +9,7 @@ I'm currently working at [Crypto Unifier](https://cryptounifier.io/) and its sub
 -->
 ### Published Packages
 
-While developing my proprietary products, I have released some open-source packages, such as [Filament Auto Resource](https://github.com/srdante/filament-auto-resource), [AntiBotLinks](https://github.com/srdante/antibotlinks), [Dom Parser](https://github.com/srdante/dom-parser), [Laravel SingleStore Backup](https://github.com/srdante/laravel-singlestore-backup), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/srdante/libssh2-ide-helper).
+While developing my proprietary products, I have released some open-source packages, such as [Filament Auto Resource](https://github.com/miguilimzero/filament-auto-resource), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper).
 
 
 ### Open-source Contributions 

@@ -19,7 +19,7 @@ As part of my work, I've contributed to several open-source projects over the la
 
 ### Other Projects
 
-Apart from that, I also published some small open-source projects, namely: [Cardapio Furg Bot](https://github.com/miguilimzero/cardapio-furg-bot), [Spreadsheet Blender](https://github.com/miguilimzero/spreadsheet-blender), [Teeworlds Mods List](https://github.com/miguilimzero/teeworlds-mods), [TeeFrame Project](https://github.com/teeframe), [TeeMods Project](https://github.com/teemods).
+Apart from that, I also published some side open-source projects, namely: [Cardapio Furg Bot](https://github.com/miguilimzero/cardapio-furg-bot), [Spreadsheet Blender](https://github.com/miguilimzero/spreadsheet-blender), [Teeworlds Mods List](https://github.com/miguilimzero/teeworlds-mods), [TeeFrame Project](https://github.com/teeframe), [TeeMods Project](https://github.com/teemods).
 
 <!---
 In 2023, I started a new objective to contribute to the [GNOME Project and Linux Ecosystem](https://gitlab.gnome.org/miguilim).

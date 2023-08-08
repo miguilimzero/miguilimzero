@@ -7,6 +7,7 @@ I'm a Software Engineer and Entrepreneur who likes to follow best coding practic
 
 I'm currently working at [Crypto Unifier](https://cryptounifier.io/) and its sub-products, aiming to offer a payment processor with a solid and unified API of multiple blockchains and cryptocurrencies.
 -->
+
 ### Published Packages
 
 While developing my proprietary products, I have released some open-source packages, such as [Filament Auto Resource](https://github.com/miguilimzero/filament-auto-resource), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper).
@@ -16,8 +17,12 @@ While developing my proprietary products, I have released some open-source packa
 
 As part of my work, I've contributed to several open-source projects over the last few years. Some of these projects include [SingleStore Laravel Driver](https://github.com/singlestore-labs/singlestoredb-laravel-driver), [Trezor Blockbook](https://github.com/trezor/blockbook), [Laravel Socialstream](https://github.com/joelbutcher/socialstream), [Web3.php](https://github.com/web3p/web3.php), [Laravel Jetstream](https://github.com/laravel/jetstream), [DDNet](https://github.com/ddnet/ddnet).
 
+### Other Projects
+
+Apart from that, I also published some small open-source projects, namely: [Cardapio Furg Bot](https://github.com/miguilimzero/cardapio-furg-bot), [Teeworlds Mods List](https://github.com/miguilimzero/teeworlds-mods), [TeeFrame Project](https://github.com/teeframe), [TeeMods Project](https://github.com/teemods).
+
 <!---
-In this year 2023 I started as a new objective to contribute to the [GNOME Project and Linux Ecosystem](https://gitlab.gnome.org/miguilim).
+In 2023, I started a new objective to contribute to the [GNOME Project and Linux Ecosystem](https://gitlab.gnome.org/miguilim).
 
 ### Contact Me
 

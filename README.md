@@ -15,11 +15,13 @@ While developing my proprietary products, I have released some open-source packa
 
 ### Open-source Contributions 
 
-As part of my work, I've contributed to several open-source projects over the last few years. Some of these projects include [SingleStore Laravel Driver](https://github.com/singlestore-labs/singlestoredb-laravel-driver), [Trezor Blockbook](https://github.com/trezor/blockbook), [Laravel Socialstream](https://github.com/joelbutcher/socialstream), [Web3.php](https://github.com/web3p/web3.php), [Laravel Jetstream](https://github.com/laravel/jetstream), [DDNet](https://github.com/ddnet/ddnet).
+As part of my work, I've contributed to several open-source projects over the last few years. These projects include [SingleStore Laravel Driver](https://github.com/singlestore-labs/singlestoredb-laravel-driver), [Laravel Socialstream](https://github.com/joelbutcher/socialstream), [Web3.php](https://github.com/web3p/web3.php), [DDNet](https://github.com/ddnet/ddnet), and small contributions to various other projects.
 
+<!---
 ### Other Projects
 
 Apart from that, I also published some side open-source projects, namely: [Cardapio Furg Bot](https://github.com/miguilimzero/cardapio-furg-bot), [Spreadsheet Blender](https://github.com/miguilimzero/spreadsheet-blender), [Teeworlds Mods List](https://github.com/miguilimzero/teeworlds-mods), [TeeFrame Project](https://github.com/teeframe), [TeeMods Ecosystem](https://github.com/teemods).
+-->
 
 <!---
 In 2023, I started a new objective to contribute to the [GNOME Project and Linux Ecosystem](https://gitlab.gnome.org/miguilim).

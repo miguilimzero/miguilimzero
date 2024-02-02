@@ -8,14 +8,15 @@ I'm a Software Engineer and Entrepreneur who likes to follow best coding practic
 I'm currently working at [Crypto Unifier](https://cryptounifier.io/) and its sub-products, aiming to offer a payment processor with a solid and unified API of multiple blockchains and cryptocurrencies.
 -->
 
-### Published Packages
+### Open-source Contributions 
 
-While developing my proprietary products, I have released some open-source packages, such as [Filament Auto Panel](https://github.com/miguilimzero/filament-auto-panel), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper).
+While developing my proprietary products, I have released some open-source packages, such as [Filament Auto Panel](https://github.com/miguilimzero/filament-auto-panel), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper). I have also contributed to several open-source projects and libraries over the last few years, mostly related to projects I built over this time.
 
-
+<!---
 ### Open-source Contributions 
 
 As part of my work, I've contributed to several open-source projects over the last few years. Some of these projects include [SingleStore Laravel Driver](https://github.com/singlestore-labs/singlestoredb-laravel-driver), [Laravel Socialstream](https://github.com/joelbutcher/socialstream), [Web3.php](https://github.com/web3p/web3.php), [DDNet](https://github.com/ddnet/ddnet), and small contributions to various other repositories.
+-->
 
 <!---
 ### Other Projects

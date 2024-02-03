@@ -10,7 +10,7 @@ I'm currently working at [Crypto Unifier](https://cryptounifier.io/) and its sub
 
 ### Open-source Contributions 
 
-While developing my proprietary products, I have released some open-source packages, such as [Filament Auto Panel](https://github.com/miguilimzero/filament-auto-panel), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper). I have also contributed to several open-source projects and libraries over the last few years, mostly related to projects I built over this time.
+While developing my proprietary products, I have released some open-source packages, such as [Filament Auto Panel](https://github.com/miguilimzero/filament-auto-panel), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper). I have also contributed to several open-source projects and libraries over the last few years, mostly related to things I built.
 
 <!---
 ### Open-source Contributions 

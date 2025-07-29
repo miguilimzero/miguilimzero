@@ -2,7 +2,7 @@
 
 I'm a Software Engineer and Entrepreneur who likes to follow best coding practices and develop maintainable code. My programming language of focus is PHP, and I'm specialized in data-intensive applications and blockchain solutions. Over the years, I started contributing to open source as a way to share knowledge and support tools I rely on.
 
-####  Open-source projects I'm working on / or have worked on
+####  Open source projects I'm working on / or have worked on
 
 - PHP Ecosystem: [Filament Auto Panel](https://github.com/miguilimzero/filament-auto-panel), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper).
 - Flathub Packages: [DDNet](https://github.com/flathub/tw.ddnet.ddnet), [GCAP 2024](https://github.com/flathub/br.gov.fazenda.receita.irpf2024), [GCAP 2025](https://github.com/flathub/br.gov.fazenda.receita.irpf2025).

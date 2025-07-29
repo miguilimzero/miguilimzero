@@ -4,7 +4,7 @@ I'm a Software Engineer and Entrepreneur who likes to follow best coding practic
 
 ####  Open-Source Projects I'm working on / or have worked on
 
-- PHP Ecosystem: [Filament Auto Panel](https://github.com/miguilimzero/filament-auto-panel), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [Jetstream Plus](https://github.com/cryptounifier/jetstream-plus), and [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper).
+- PHP Ecosystem: [Filament Auto Panel](https://github.com/miguilimzero/filament-auto-panel), [AntiBotLinks](https://github.com/miguilimzero/antibotlinks), [Laravel SingleStore Backup](https://github.com/miguilimzero/laravel-singlestore-backup), [LIBSSH2 IDE Helper](https://github.com/miguilimzero/libssh2-ide-helper).
 - Flathub Packages: [DDNet](https://github.com/flathub/tw.ddnet.ddnet), [GCAP 2024](https://github.com/flathub/br.gov.fazenda.receita.irpf2024), [GCAP 2025](https://github.com/flathub/br.gov.fazenda.receita.irpf2025).
 - Others: [Teeworlds Mods](https://github.com/miguilimzero/teeworlds-mods).
 - TeeMods: [ZombPanic](https://github.com/teemods/zombpanic), [OpenGores](https://github.com/teemods/opengores), [OpenGores Maps](https://github.com/teemods/opengores-maps), [DDNet Skeleton](https://github.com/teemods/ddnet-skeleton).

@@ -12,5 +12,5 @@ I'm a Software Engineer and Entrepreneur who likes to follow best coding practic
 - Deprecated Packages: [Dom Parser](https://github.com/miguilimzero/dom-parser), [Tailwind Base](https://github.com/miguilimzero/tailwind-base), [Tailwind Links](https://github.com/miguilimzero/tailwind-links), [Ethereum PHP Utils](https://github.com/miguilimzero/ethereum-php-utils).
 - Old Repositories: [Spreadsheet Blender](https://github.com/miguilimzero/spreadsheet-blender), [Cardápio FURG Bot](https://github.com/miguilimzero/cardapio-furg-bot), [Ubuntu Games](https://github.com/miguilimzero/ubuntu-games), [Blade Templates Auto-Detect](https://github.com/miguilimzero/blade-templates-autodetect), [WordOps Setup](https://github.com/miguilimzero/wordops-setup).
 
-Aside from this list of repositories I’ve created, I’ve made contributions to open-source projects maintained by different companies and communities, and you can view these in my account activity history.
+Aside from this list of repositories I’ve created, I’ve made contributions to open source projects maintained by different companies and communities, and you can view these in my account activity history.
 

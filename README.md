@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a Software Engineer and Entrepreneur who likes to follow best coding practices and develop maintainable code. My programming language of focus is PHP, and I'm specialized in data-intensive applications and blockchain solutions.
+I'm a Software Engineer and Entrepreneur who likes to follow best coding practices and develop maintainable code. My programming language of focus is PHP, and I'm specialized in data-intensive applications and blockchain solutions. Over the years, I started contributing to open source as a way to share knowledge and support tools I rely on.
 
 ####  Open-source projects I'm working on / or have worked on
 
